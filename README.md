@@ -34,4 +34,4 @@ Bonus:
   [2]: https://www.youtube.com/watch?v=M8qqRo7He0E "Video of the Project"
   [3]: https://www.arduino.cc/    "Arduino"
 
-# STATUS: Completed main objective bonus objectives
+### STATUS: Finished
