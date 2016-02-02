@@ -26,9 +26,9 @@ Bonus:
 
 
 ## Links
-[Tutorial: Circuits] [1]
-[Video of the Project] [2]
-[Arduino Home Page] [3]
+1. [Tutorial: Circuits] [1]
+2. [Video of the Project] [2]
+3. [Arduino Home Page] [3]
 
   [1]: http://www.ladyada.net/learn/arduino/lesson3.html        "Tutorial: Circuits"
   [2]: https://www.youtube.com/watch?v=M8qqRo7He0E "Video of the Project"
